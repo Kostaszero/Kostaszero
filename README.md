@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Node.js**
 
-- 👨‍💻 All of my current/upcoming projects are/will be available at [https://github.com/imtiyazMohammed](https://github.com/imtiyazMohammed)
+- 👨‍💻 All of my current/upcoming projects are/will be available at [https://github.com/Kostaszero](https://github.com/Kostaszero)
 
 - 💬 Ask me about **Angular, Web Development, 2D Game Development & Competitive Programming**
 
