@@ -11,15 +11,15 @@
 
 - 📫 How to reach me **b.nitin.naidu@gmail.com**
 
-- 📃 My Resume [Click Here](https://drive.google.com/file/d/1Ni3uLYticPsnsY8evSZgV0Rj3MfvF8xs/view?usp=sharing)
+- 📃 To see my Resume [Click Here](https://drive.google.com/file/d/1Ni3uLYticPsnsY8evSZgV0Rj3MfvF8xs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nithin-naidu-318878222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin-naidu" height="30" width="40" /></a>
 <!--<a href="https://www.codechef.com/users/imtiyaz2312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imtiyaz2312" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thisisimtiyaz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thisisimtiyaz01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/imtiyaz_mohammed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imtiyaz_mohammed_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imtiyazmohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imtiyazmohammed" height="30" width="40" /></a> -->
+<a href="https://codeforces.com/profile/imtiyaz_mohammed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imtiyaz_mohammed_" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/naidunitin660" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naidunitin660" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Nitinnaidu0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nitinnaidu0602" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
