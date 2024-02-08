@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **b.nitin.naidu@gmail.com**
 
-- 📃 To see my Resume [Click Here](https://drive.google.com/file/d/1Ni3uLYticPsnsY8evSZgV0Rj3MfvF8xs/view?usp=sharing)
+- 📃 To see my Resume [Click Here](https://drive.google.com/file/d/11JvREAkY3HA_QOzvbtqyvjlKI5q8ywBG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
