@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kostaszero&label=Profile%20views&color=blue&style=flat&abbreviated=true" alt="Kostaszero" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Spring boot**
+- 🌱 I’m currently learning **ReactJS, Node.js**
 
 - 👨‍💻 All of my current/upcoming projects are/will be available at [https://github.com/Kostaszero](https://github.com/Kostaszero)
 
